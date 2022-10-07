@@ -1,0 +1,14 @@
+Zano - Voice Assistant (Created using python 3.10)
+
+Perform Following Functios...
+
+1- Wikipedia Searching
+2- Speak Time
+3- Cleaning Folder by arranging files in new folder - Just by inputing path of that folder to be cleaned
+4- Youtube Searching
+5- Opening system apps
+6- shutting down system
+7- Taking Screenshot
+8- Opening major websites
+
+Just a starting project for me as beginner python developer....
